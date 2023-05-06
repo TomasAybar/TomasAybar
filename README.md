@@ -44,6 +44,8 @@
 
 ![Snake animation](https://github.com/TomasAybar/TomasAybar/blob/output/github-contribution-grid-snake.svg)
 
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTomasAybar%2FTomasAybar&label=Profile%20views&countColor=%23ffd95a&labelStyle=upper)
+<div align="center">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FTomasAybar%2FTomasAybar"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTomasAybar%2FTomasAybar&label=Profile%20views&countColor=%23ffd95a&labelStyle=upper" /></a>
+</div>
+<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTomasAybar%2FTomasAybar&label=Profile%20views&countColor=%23ffd95a&labelStyle=upper) -->
 
