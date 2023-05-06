@@ -45,9 +45,5 @@
 ![Snake animation](https://github.com/TomasAybar/TomasAybar/blob/output/github-contribution-grid-snake.svg)
 
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tomasaybar.tomasaybar&right_color=goldenrod&left_text=Profile views"  />
-</div>
-
-###
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTomasAybar%2FTomasAybar&label=Profile%20views&countColor=%23ffd95a&labelStyle=upper)
 
