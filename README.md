@@ -8,13 +8,13 @@
 
 <br />
     
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="https://github.com/tomasaybar">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tomasaybar&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasaybar&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
 	 
-<br />
+<br /> -->
  
 <div align="center"> 
   <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
