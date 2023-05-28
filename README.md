@@ -8,14 +8,11 @@
 
 <br />
     
-<!-- <div align="center"> 
-  <a href="https://github.com/tomasaybar">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tomasaybar&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasaybar&layout=compact&langs_count=7&theme=ayu-mirage"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasaybar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tomasaybar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-	 
-<br /> -->
- 
+
 <div align="center"> 
   <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
   <div style="display: inline_block"><br>
@@ -48,4 +45,3 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FTomasAybar%2FTomasAybar"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTomasAybar%2FTomasAybar&label=Profile%20views&countColor=%23ffd95a&labelStyle=upper" /></a>
 </div>
 <!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTomasAybar%2FTomasAybar&label=Profile%20views&countColor=%23ffd95a&labelStyle=upper) -->
-
